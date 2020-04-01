@@ -30,4 +30,4 @@ let str = +'dwad';
 
 console.log(str === +"dawd"); //false
 console.log(typeof (str) === typeof (+"dawd")); //true
-console.log(+"dawd");
+
